@@ -36,6 +36,7 @@ function Login() {
         <div className = "App">
             <br/>
             <br/>
+            <h2> Going nuts learning react </h2>
             {isLogin ? <h1>Please Login </h1> : <h1>Please Register </h1>}
             
 

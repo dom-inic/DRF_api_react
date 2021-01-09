@@ -90,7 +90,7 @@ function App() {
       <div className = "row">
       <div className = "col">
     
-        <h2>Django And ReactJS Course</h2>
+        <h2>django and react basics tutorial </h2>
         <br/>
         </div>
 
